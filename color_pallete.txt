@@ -1,0 +1,6 @@
+Black: 090b0a
+Dark Grey: 3C493F
+Grey: 7E8D85
+Light Grey: B3BFB8
+White: F0F7F4
+Accent (mint green): A2E3C4
