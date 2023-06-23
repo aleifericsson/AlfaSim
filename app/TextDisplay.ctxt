@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TextDisplay
+comment1.params=t_name\ t_x\ t_y\ t_width\ t_height\ t_page
+comment1.target=TextDisplay(java.lang.String,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=void\ drawText()
+numComments=6

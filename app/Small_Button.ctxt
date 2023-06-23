@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Small_Button
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ button\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=b_name\ b_x\ b_y\ b_width\ b_height\ b_page
+comment1.target=Small_Button(java.lang.String,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkPressable()
+comment4.params=
+comment4.target=void\ checkPress()
+comment5.params=
+comment5.target=void\ doSomething()
+comment6.params=
+comment6.target=int\ getX()
+comment7.params=
+comment7.target=int\ getY()
+comment8.params=
+comment8.target=void\ drawText()
+comment9.params=
+comment9.target=void\ updateLocation()
+numComments=10
