@@ -6,5 +6,5 @@ Web Version (does not include the save and load features): https://www.greenfoot
 
 To use the app version, download the app folder and download greenfoot, then open the project.greenfoot file.
 
-Preview:
+# Preview
 ![alt text](https://github.com/aleifericsson/AlfaSim/blob/main/app/images/thumbnail_real.png?raw=true)
